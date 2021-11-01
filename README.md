@@ -1,6 +1,7 @@
 # sample_project
 by Mohamed Naeem
 introduction:
+
 Course website
 Front Ends html, css, Bootstrap, JQuery
 Header and Footer for 3 pages
